@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Protein Design Tools</title>
-</head>
-<body>
   <h1>Protein Design Applications</h1>
   <ul>
     <li><a href="https://github.com/escalante-bio/mosaic">Mosaic (GitHub)</a></li>
@@ -26,5 +20,3 @@
     <li><a href="https://github.com/mabr3112/ProtFlow">ProtFlow (GitHub)</a></li>
     <li><a href="https://github.com/seqeralabs/nf-proteindesign">Nf-proteindesign (GitHub)</a></li>
   </ul>
-</body>
-</html>
